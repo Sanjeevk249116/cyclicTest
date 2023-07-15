@@ -1,0 +1,24 @@
+{
+  "name": "cyclictest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanjeevk249116/cyclicTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanjeevk249116/cyclicTest/issues"
+  },
+  "homepage": "https://github.com/Sanjeevk249116/cyclicTest#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
